@@ -1,0 +1,6 @@
+{
+  "name": "GoWheels - Premium Car Rental Platform",
+  "description": "Your Journey, Our Drive. Full-stack car rental platform with seamless booking, fleet catalog, customer and admin dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
