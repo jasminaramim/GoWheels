@@ -176,7 +176,7 @@ export const Navbar: React.FC<NavbarProps> = ({ currentView, onNavigate, unreadC
               </button>
               <button
                 onClick={() => openAuthModal('register')}
-                className="px-4.5 py-2 text-xs font-semibold text-white bg-[#D71920] hover:bg-[#B5121B] rounded-lg transition-all shadow-xs whitespace-nowrap"
+                className="hidden sm:inline-flex px-4.5 py-2 text-xs font-semibold text-white bg-[#D71920] hover:bg-[#B5121B] rounded-lg transition-all shadow-xs whitespace-nowrap"
               >
                 Register
               </button>
